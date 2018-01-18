@@ -1,3 +1,3 @@
 # fll
-FLL. 2018 ROBOT FDD
-HI
+Fazekas RoboTeam's repository
+Ide csak a programot rakjuk!
